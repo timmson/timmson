@@ -5,6 +5,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timmson&show_icons=true&theme=radical)
 
-You could discover more about on page below (projects, contacts, etc).
+You could discover more about me on page below (projects, contacts, etc).
 
 👉 [https://timmson.github.io/](https://timmson.github.io/)
