@@ -7,4 +7,4 @@
 
 You could discover more about on page below (projects, contacts, etc):
 
-[https://timmson.github.io/]
+👉 [https://timmson.github.io/](https://timmson.github.io/)
