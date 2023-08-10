@@ -1,7 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=your-github-timmson)
 ![Codewars stats](https://www.codewars.com/users/timmson/badges/micro)
 
-## Koltin/TypeScript Developer & Scrum Master
+## Kotlin/TypeScript Developer & Scrum Master
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=timmson&show_icons=true&theme=radical)
 
